@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @theodari
+- 👀 I’m interested in laser effects programming, interactive apps and vision
+- 🌱 I’m an expert in modern C++ and advanced software designer
+- 💞️ I’m looking to collaborate on laser 
+- 📫 How to reach me on www.interactive-laser.com
